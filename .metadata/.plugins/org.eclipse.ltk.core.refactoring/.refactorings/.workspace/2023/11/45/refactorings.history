@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;STM32-SPI&apos;" deleteContents="true" description="Delete resource &apos;STM32-SPI&apos;" element1="/STM32-SPI" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1699467960563"/>&#x0A;<refactoring comment="Delete resource &apos;STM32SPI&apos;" deleteContents="true" description="Delete resource &apos;STM32SPI&apos;" element1="/STM32SPI" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1699468118626"/>
-</session>
